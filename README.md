@@ -34,13 +34,15 @@ I do my very best to develop my professional skills.
 
 ## Skills
 	
-|My skils|Level|
-|:----|:----:|
-|HTML|Experienced| 
-|CSS (Bootstrap, SASS/SCSS, BEM)|Experienced|
-|JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)|Basic|
-|Git/GitHub|Basic|
-|Figma / Adaptive layout|Basic|
+| My skils                                                              |Level|
+|:----------------------------------------------------------------------|:----:|
+| HTML                                                                  |Experienced| 
+| CSS (Bootstrap, SASS/SCSS, BEM)                                       |Experienced|
+| JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)   |Experienced|
+| Git/GitHub                                                            |Experienced|
+| WebdriverIO, Selenium, Docker, RESTful API, Postman  |Experienced|
+| Figma / Adaptive layout                                               |Basic|
+
 
 
 ## Code Examples
@@ -90,6 +92,6 @@ in Engineering
 
 ## Languages
 - Russian - native speaker.
-- English - A2 (B1 in process…)
+- English - B1 (B2 in process…)
 
 
