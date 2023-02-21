@@ -58,15 +58,20 @@ I do my very best to develop my professional skills.
 
 ## Courses
 
+`2023`
+
+- [x]  Professional education A1QA 
+       <br> QA automation engineer
+
 `2022`
 
 - [x]  Computer Academy STEP
-Front-end development
+<br>Front-end development
 
 `2017`
 
 - [x]  IT-school "MELA ROSSA"
-Front-end development
+  <br>Front-end development
 
 ## Education
 
